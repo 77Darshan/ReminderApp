@@ -2,17 +2,20 @@
 An Android application that helps users set reminders for specific dates and times and receive pop-up notifications when the events occur.
 
 #Features
+
 Set reminders for specific dates and times
 Receive pop-up notifications for upcoming events
 Edit and delete existing reminders
 User-friendly interface
 
 #Pre requisites
+
 Android Studio 3.0 or higher
 Android SDK API 21 or higher
 Target SDK 30
 
-Installation
+#Installation
+
 Clone the repository using the following command:
 
 Copy code
