@@ -11,7 +11,9 @@ User-friendly interface
 #Pre requisites
 
 Android Studio 3.0 or higher
+
 Android SDK API 21 or higher
+
 Target SDK 30
 
 #Installation
@@ -26,7 +28,9 @@ Copy code
 Built With
 
 Android Studio - The development IDE for Android applications
+
 Java - The programming language used for developing the application
+
 SQLite - The database used for storing remin
 
 ScreenShots
